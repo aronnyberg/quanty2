@@ -9,7 +9,9 @@ Specifically, this strategy opens a spread trade of buying bitcoin while shortin
 
 Strategy Performance:
 Across 440 observations, the strategy achieves (?) a Sharpe ratio of -0.3. The strategy shows some promise however, given the large recent drawdown in the strategy which potentially could have been improved with risk management features added in.
+
 ![image](https://github.com/aronnyberg/quanty2/assets/53857832/0668a0dc-5acc-41b6-add5-d8eb92702a97)
+
 ![image](https://github.com/aronnyberg/quanty2/assets/53857832/3ee86156-7d7c-4a08-8000-3238f22bf3d3)
 
 
