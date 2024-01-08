@@ -1,6 +1,6 @@
 # These notebooks run a crypto football coin strategy
 
-These notebooks include the full workflow behind a crypto quant strategy. I've manually added these notebooks from a private repo.
+These notebooks include the full workflow exploring behind a quick-and-dirty crypto quant strategy. I've manually added these notebooks from a private repo.
 
 
 Strategy Overview:
