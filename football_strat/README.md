@@ -12,7 +12,7 @@ Across 440 observations, the strategy achieves (?) a Sharpe ratio of -0.3. The s
 
 ![image](https://github.com/aronnyberg/quanty2/assets/53857832/0668a0dc-5acc-41b6-add5-d8eb92702a97)
 
-Here the performance is broken down into strategy returns (strat_rets) and the isolated performance of the alpha-generating side (vwap) ie short only.
+Here the performance is broken down into strategy returns (strat_rets) and the isolated performance of the alpha-generating side (vwap) ie short only. In this case, hedging the crypto risk led to worse returns:
 
 ![image](https://github.com/aronnyberg/quanty2/assets/53857832/3ee86156-7d7c-4a08-8000-3238f22bf3d3)
 
